@@ -1,0 +1,39 @@
+.colornav{
+    background: rgb(255,55,0);
+    background: linear-gradient(90deg, rgba(255,55,0,1) 49%, rgba(245,53,1,1) 51%, rgba(2,0,36,1) 100%, rgba(0,212,255,1) 100%);
+}
+
+.colornav a{
+   color: white;
+}
+
+#fundo{
+    background: rgb(255,55,0);
+    background: linear-gradient(90deg, rgba(255,55,0,1) 49%, rgba(245,53,1,1) 51%, rgba(2,0,36,1) 100%, rgba(0,212,255,1) 100%);
+    color: black;
+    text-align: center;
+}
+
+footer{
+    text-align: justify;
+}
+
+.imgviagem{
+  border-radius: 35px;
+  width: 500px;
+  height: 500px;
+}
+
+.colornav img{
+    border-radius: 100px;
+}
+
+#accordion-button, .accordion-collapse{
+ background-color: orange;
+ color: black;
+}
+
+#contato a{
+    color: black;
+    text-decoration: none;
+}
